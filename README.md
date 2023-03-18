@@ -6,7 +6,6 @@
 <img  src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="CSS3" width="50" height="50"/>
 &nbsp;
 <img  src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="CSS3" width="50" height="50"/>
-&nbsp;
-<img  src=" https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="CSS3" width="50" height="50"/>
+&nbsp;<img  src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="CSS3" width="50" height="50"/>
 
 
