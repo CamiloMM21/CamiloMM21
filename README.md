@@ -1,11 +1,6 @@
-<h1>Hello! Welcome to my repository</h1>
-<br/>
+
 <h2>My specialization is JavaScript</h2>
-<br/>
-<h2>2 languages</h2>
-<h3>Ingles A2</h3>
-<h3>Ruso A1</h3>
-<p>Я знаю только повседневные фразы</p>
+
 
 
 
