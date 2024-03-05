@@ -5,7 +5,7 @@
 
 ### Currículum Vitae
 
-Puedes descargar mi currículum vitae haciendo clic [aquí](enlace_a_tu_curriculum.html](https://www.canva.com/design/DAF6RbpR2wE/qrA9RllscYUB00kHsEjLRQ/edit?utm_content=DAF6RbpR2wE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+Puedes descargar mi currículum vitae haciendo clic<a href="enlace_a_tu_curriculum.html" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Descargar Currículum</a>
 
 ### Habilidades
 
